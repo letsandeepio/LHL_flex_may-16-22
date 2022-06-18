@@ -39,8 +39,8 @@ A pending promise can either be fulfilled with a value or rejected with a reason
 * We discussed how async code is treated by Javascript using call stack, api stack and callback queue
 * We built a small pizza ordering system (SPOS) using callbacks (see pizza-order-callbacks.js)
 * Refactored the SPOS to use promises instead of callbacks (see pizza-order-promises.js) 
+* We used our own fake promise generator (please don't do that in real life), and demoed how we could handle multiple promises as all and how we can make promises run again.
 * We built a small Information Retrieval System whereby we read json files containing SpaceX rockets info and present their descriptions to the user.
-* We made our own fake promise generator (please don't do that in real life), and demoed how we could handle multiple promises as all and how we can make promises run again.
 
 
 
